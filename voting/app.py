@@ -9,7 +9,7 @@ import logging
 import signal
 import sys
 
-optionA = "Dev1"
+optionA = "Seattle"
 optionB = "Ops1"
 name = optionA + " VS " + optionB
 
